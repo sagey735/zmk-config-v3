@@ -1,0 +1,4 @@
+if SHIELD_V3
+
+config ZMK_KEYBOARD_NAME
+    default "v3"
